@@ -29,8 +29,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunohkim&layout=compact&theme=dark"><br><br>
-
 ---
 
 ### 📞 Contact to <br/>
